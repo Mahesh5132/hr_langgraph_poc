@@ -1,0 +1,5 @@
+### --- hr_langgraph_poc/requirements.txt ---
+langchain
+langgraph
+openai
+streamlit
