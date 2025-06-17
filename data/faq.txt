@@ -1,0 +1,6 @@
+question,answer
+"What is the leave policy?","Employees are entitled to 18 paid leaves annually, including casual and sick leave."
+"What is PF deduction?","Provident Fund (PF) is deducted at 12% of basic salary and matched by the employer."
+"How can I access my salary slip?","Salary slips are emailed and available on the HR portal after the 5th."
+"How do I raise a grievance?","Grievances can be raised via the chatbot or emailed to hr@example.com."
+"What holidays are observed?","The official holiday list is shared in January and published on the HR portal."
