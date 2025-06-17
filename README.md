@@ -5,7 +5,7 @@ A proof-of-concept HR assistant chatbot that uses LangChain for intent classific
 
 ## Features
 - Payslip generation (mocked)
-- Grievance management
+- FAQ's Chatbot
 - Performance appraisal reminders
 
 ## Run Locally
